@@ -2,9 +2,9 @@ language: php
 
 php: 
  # - 5.4
-  #- 5.5
+  - 5.5
   #- 5.3
-  - 5.6
+  #- 5.6
   
 env:
  secure: Q6w4fG0Yzta9lNdPOtgDM4Q/jBLkzS0zNpIQ8kO1w8eDzr2xVfN9YkmGOO3fZx7jskYrN6Alvjj6/79cL1rvY347Qit9iAmVE+6i0yT4StNS2DMpstpaiaIVntCwUsfYWkfJ+OXDHB68oifGaRLFjVpgYn8QXpfQarzndZpktx4W6xdbkTKKwOf4SahCWFqlHWo/a0kSWtyli+2e6K/E8t4L57tcTY2DNMs4NyJBj3zrBI4yhCoJQgw+vKFuAOWTticNyjY5WQeM+X7Zuy3oYmIl/wtrwKhzRx5YcdfYWNbF5magaGaG1CAffe6l2kvobKaz2J2ZlPfpp+MOSwdgsQ==
